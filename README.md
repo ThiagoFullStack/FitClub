@@ -1,3 +1,51 @@
+# #💻/ FitClub 💪🏋️‍♀️🚴‍♀️
+
+
+![Welcome](./src/assets/fit-club.png?raw=true)
+
+📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://vercel.com/)] Access the site ➡ ( https://fit-club-ruby.vercel.app/ ) Access the figma ➡ ( https://www.figma.com/file/FnpgGcD5uQwpaTxMIEU0tS/FitClub?node-id=0%3A1&t=S4uDozyLyeoDcEoh-1 )
+
+
+## 🎉 Start
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### 📝 Pré-requisitos:
+
+You need to use Front-end.
+
+```
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT.JS
+* NODE
+* EMAILJS
+```
+
+## 📚 Library 🧠 
+```
+   BUILD
+* npm build
+
+    DEPLOY DO PROJETO
+* Import GitHub
+```
+
+
+## 📁 Layout:
+
+We created the layout using VS Code. You can find the file [aqui](https://code.visualstudio.com/).
+
+## 🎮🎧 Author: ⚽💻 
+
+* 😎 **Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
+
+* 💻🖱 **Thiago Lourenço** - [GitHub](https://github.com/ThiagoFullStack)
+
+<br><br><br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
